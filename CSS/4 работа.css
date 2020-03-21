@@ -1,0 +1,136 @@
+html,body
+{
+	background-color: black;
+}
+
+nav > ul 
+{
+	display: inline;
+	display:flex;
+	justify-content: space-around;
+	font-family: arial;
+	color:#f7f6fd;
+	font-size: 50px;
+	margin: 10px 0px 0px -30px;
+	list-style-type: none;
+	text-shadow:#8B00FF 1px 1px 2px;	
+}
+
+h1
+{
+	display: inline;
+	font-family: Arial Black;
+	color:#f7f6fd;
+	font-size: 50px;
+	margin: 0px 0px 0px 150px;
+	text-shadow:#8B00FF 1px 1px 20px;
+}
+
+h2
+{
+	
+	font-family: Century Gothic;
+	color:#f7f6fd;
+	font-size: 15px;
+	margin: 10px 50px 20px 50px;	
+
+}
+
+ header
+ {
+ 	background-image: url(https://data.whicdn.com/images/274438763/original.gif) ;
+ 	background-size: 1250px 60px;
+	margin: 0px 0px 0px 0px;
+	background-repeat: no-repeat;	
+ }
+h3
+{
+	color:#f7f6fd;		
+	font-size: 50px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+}
+
+
+h3.TheEvilWithin
+{
+	text-shadow:#FF181D 1px 1px 2px;
+	font-family: Algerian;	
+}
+h3.DeathStranding
+{
+	text-shadow:#7397a5 2px 2px 5px;
+	font-family: OCR A Std;	
+}
+h3.TheWitcher3
+{
+	text-shadow:#dd1b1b 1px 1px 2px;
+	font-family: Chiller;	
+}
+h3.Titanfall2
+{
+	text-shadow:#1191c0 3px 3px 10px;
+	font-family: Lucida console;	
+}
+h3.MetroExodus
+{
+	text-shadow:#474955 2px 2px 2px;
+	font-family: Gotham Black;	
+}
+h3.BioshockInfinite
+{
+	text-shadow:#00c738 0px 0px 10px;
+	font-family: Broadway;	
+}
+h3.TheEderScrolls5Skyrim
+{
+	text-shadow:#f0f2e6 1px 1px 1px, #f0f2e6 -1px -1px 1px, #828282 -1px 1px 1px,#828282 1px -1px 1px;
+	font-family: Times new roman;	
+}
+h3.Fallot4
+{
+	text-shadow:#66FF00 1px 1px 1px, #66FF00 -1px -1px 1px, #66FF00 -1px 1px 1px,#66FF00 1px -1px 1px;
+	font-family: franklin gothic medium;	
+}
+h3.TomClancysRainbowSixSiege
+{
+	
+	font-family: arial black;	
+}
+h3.CallOfDutyBlackOpsII
+{
+	
+	font-family: monospace;	
+}
+h3.II
+{
+text-shadow:#ee640e 2px 2px 3px, #ee640e -2px -2px 3px, #ee640e -2px 2px 3px,#ee640e 2px -2px 3px;
+font-family: arial black;	
+}
+
+h4
+{
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+}
+h5
+{
+	text-shadow:#8B00FF 1px 1px 1px;
+	color: #66FF00 ;
+}
+h6
+{
+	display: inline;
+	display:flex;
+	justify-content: space-around;	
+	font-family: Calibri;
+	color:#EBC7DF;
+	font-size: 15px;
+	margin: 10px 0px 15px 0px;
+	
+	text-shadow:#8B00FF 1px 1px 5px, #8B00FF -1px -1px 5px, #8B00FF -1px 1px 5px,#8B00FF 1px -1px 5px;
+}
+ a { 
+    text-decoration: none; 
+   } 
+   
